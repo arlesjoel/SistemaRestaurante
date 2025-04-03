@@ -1,0 +1,12 @@
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.csproj.AssemblyReference.cache
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.AssemblyInfoInputs.cache
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.AssemblyInfo.cs
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.csproj.CoreCompileInputs.cache
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\bin\Debug\net8.0\EL.deps.json
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\bin\Debug\net8.0\EL.dll
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\bin\Debug\net8.0\EL.pdb
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.dll
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\refint\EL.dll
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\EL.pdb
+C:\Users\ing\Desktop\Examen_diseño_sistemas\EL\obj\Debug\net8.0\ref\EL.dll
