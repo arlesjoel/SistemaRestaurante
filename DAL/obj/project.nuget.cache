@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XsfIXF3VKzQ=",
+  "dgSpecHash": "UbN5ThJ6H54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ing\\Desktop\\Examen_diseño_sistemas\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_diseño_sistemas\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ing\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ing\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,15 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\",
+  "WorkspaceRootPath": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{927E4937-9328-4FD0-96B4-7939171CC440}|..\\EL\\EL.csproj|c:\\users\\ing\\desktop\\examen_dise\u00F1o_sistemas\\el\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\sistemarestaurante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927E4937-9328-4FD0-96B4-7939171CC440}|..\\EL\\EL.csproj|c:\\users\\ing\\desktop\\examen_dise\u00F1o_sistemas\\el\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\sistemarestaurante\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3541629E-9A14-49CC-8BD5-8946C1D0D0D0}|..\\TestUnity\\TestUnity.csproj|c:\\users\\ing\\desktop\\examen_dise\u00F1o_sistemas\\testunity\\testunity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{927E4937-9328-4FD0-96B4-7939171CC440}|..\\EL\\EL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\el\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927E4937-9328-4FD0-96B4-7939171CC440}|..\\EL\\EL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\el\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,40 +29,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Productos.cs",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\EL\\Productos.cs",
-              "RelativeDocumentMoniker": "..\\EL\\Productos.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\EL\\Productos.cs",
-              "RelativeToolTip": "..\\EL\\Productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Title": "Form1.cs [Design - English (United States)]",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\Form1.cs [Design - English (United States)]*",
+              "RelativeToolTip": "Form1.cs [Design - English (United States)]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T03:46:07.139Z",
+              "WhenOpened": "2025-04-04T03:45:24.879Z",
+              "EditorCaption": " [Design - English (United States)]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:33:52.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TestUnity",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\TestUnity\\TestUnity.csproj",
-              "RelativeDocumentMoniker": "..\\TestUnity\\TestUnity.csproj",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\TestUnity\\TestUnity.csproj",
-              "RelativeToolTip": "..\\TestUnity\\TestUnity.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T03:38:05.128Z",
-              "EditorCaption": ""
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\Productos.cs",
+              "RelativeDocumentMoniker": "..\\EL\\Productos.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\Productos.cs",
+              "RelativeToolTip": "..\\EL\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:40:17.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\EL\\Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\Roles.cs",
               "RelativeDocumentMoniker": "..\\EL\\Roles.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\Examen_dise\u00F1o_sistemas\\EL\\Roles.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\Roles.cs",
               "RelativeToolTip": "..\\EL\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T03:07:09.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T04:40:13.542Z"
             }
           ]
         }
