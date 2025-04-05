@@ -93,4 +93,6 @@ C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\Sist
 C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\SistemaRestaurante\bin\Debug\net8.0-windows\EL.pdb
 C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\SistemaRestaurante\obj\Debug\net8.0-windows\SistemaRestaurante.csproj.AssemblyReference.cache
 C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\SistemaRestaurante\obj\Debug\net8.0-windows\SistemaR.51CB0D6F.Up2Date
+C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\SistemaRestaurante\obj\Debug\net8.0-windows\SistemaRestaurante.FRM_Login.resources
+C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\SistemaRestaurante\obj\Debug\net8.0-windows\SistemaRestaurante.Properties.Resources.resources
 C:\Users\ing\Desktop\SistemaRestaurante_ExamenFinal\Examen_diseño_sistemas\SistemaRestaurante\obj\Debug\net8.0-windows\SistemaRestaurante.FRM_Menu.resources
