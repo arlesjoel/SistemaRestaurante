@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace DAL
 {
@@ -45,10 +46,10 @@ namespace DAL
             }
             return bd.SaveChanges() > 0;
         }
-        public static List<Productos> Lista()
+        public static List<vProductos> Lista()
         {
             using BDSistemaRestaurante bd = new();
-            return bd.Productos.ToList();
+            return bd.vProductos.ToList();
         }
     }
 }

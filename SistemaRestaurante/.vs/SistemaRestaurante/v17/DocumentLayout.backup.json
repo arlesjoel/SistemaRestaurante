@@ -7,21 +7,17 @@
       "RelativeMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|solutionrelative:frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\sistemarestaurante\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|solutionrelative:frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\sistemarestaurante\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|solutionrelative:frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\sistemarestaurante\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B67266D-F77E-41A2-A8CE-1D792EF991F6}|SistemaRestaurante.csproj|solutionrelative:frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{927E4937-9328-4FD0-96B4-7939171CC440}|..\\EL\\EL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\el\\vproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{683CE8B4-29CC-4AD0-8125-D1E3AA8CE447}|..\\DAL\\DAL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\dal\\dal_loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{683CE8B4-29CC-4AD0-8125-D1E3AA8CE447}|..\\DAL\\DAL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\dal\\bdsistemarestaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927E4937-9328-4FD0-96B4-7939171CC440}|..\\EL\\EL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\el\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{683CE8B4-29CC-4AD0-8125-D1E3AA8CE447}|..\\DAL\\DAL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\dal\\dal_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{683CE8B4-29CC-4AD0-8125-D1E3AA8CE447}|..\\DAL\\DAL.csproj|c:\\users\\ing\\desktop\\sistemarestaurante_examenfinal\\examen_dise\u00F1o_sistemas\\dal\\dal_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,33 +27,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FRM_Login.cs",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Login.cs",
-              "RelativeDocumentMoniker": "FRM_Login.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Login.cs",
-              "RelativeToolTip": "FRM_Login.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAGIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:18:14.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FRM_Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Login.cs",
-              "RelativeDocumentMoniker": "FRM_Login.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Login.cs [Design]",
-              "RelativeToolTip": "FRM_Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:41:55.319Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -67,46 +38,59 @@
               "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Menu.cs [Design]",
               "RelativeToolTip": "FRM_Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:15:00.602Z",
+              "WhenOpened": "2025-04-05T11:43:01.501Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DAL_LoginUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\DAL_LoginUsuario.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DAL_LoginUsuario.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\DAL_LoginUsuario.cs",
-              "RelativeToolTip": "..\\DAL\\DAL_LoginUsuario.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FRM_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Menu.cs",
+              "RelativeDocumentMoniker": "FRM_Menu.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\SistemaRestaurante\\FRM_Menu.cs",
+              "RelativeToolTip": "FRM_Menu.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:29:03.567Z",
+              "WhenOpened": "2025-04-05T11:10:31.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DAL_Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\DAL_Usuarios.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DAL_Usuarios.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\DAL_Usuarios.cs",
-              "RelativeToolTip": "..\\DAL\\DAL_Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BDSistemaRestaurante.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\BDSistemaRestaurante.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\BDSistemaRestaurante.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\BDSistemaRestaurante.cs",
+              "RelativeToolTip": "..\\DAL\\BDSistemaRestaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:24:31.751Z",
+              "WhenOpened": "2025-04-05T11:01:18.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\Usuarios.cs",
-              "RelativeDocumentMoniker": "..\\EL\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\Usuarios.cs",
-              "RelativeToolTip": "..\\EL\\Usuarios.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Title": "DAL_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\DAL_Productos.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_Productos.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\DAL\\DAL_Productos.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:26:42.161Z",
+              "WhenOpened": "2025-04-05T11:00:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vProductos.cs",
+              "DocumentMoniker": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\vProductos.cs",
+              "RelativeDocumentMoniker": "..\\EL\\vProductos.cs",
+              "ToolTip": "C:\\Users\\ing\\Desktop\\SistemaRestaurante_ExamenFinal\\Examen_dise\u00F1o_sistemas\\EL\\vProductos.cs",
+              "RelativeToolTip": "..\\EL\\vProductos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:49:50.173Z",
               "EditorCaption": ""
             }
           ]

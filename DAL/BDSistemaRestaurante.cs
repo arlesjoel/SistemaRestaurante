@@ -18,6 +18,7 @@ namespace DAL
         public DbSet<ReciboDetalles>? ReciboDetalles { get; set; }
         public DbSet<Productos>? Productos { get; set; }
         public DbSet<Categorias>? Categorias { get; set; }
+        public DbSet<vProductos>? vProductos { get; set; }
 
     }
 }
